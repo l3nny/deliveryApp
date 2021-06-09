@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoorDash Lite</string>
+    <string name="error_unexpected_message">Something went wrong, please try again.</string>
+    <string name="error_network">Please check your Internet Connection.</string>
+    <string name="popular_items">Popular Items</string>
+
+
+    <string name="tittle_main_activity">Discover</string>
+    <string name="closed">Closed</string>
+    <string name="add_cart">Add to cart</string>
+
+
+</resources>
